@@ -166,6 +166,39 @@ target/site/serenity/index.html
 
 ---
 
+## 📸 Resultados Visuales
+
+#### ✅ Login exitoso
+
+![Login exitoso](./assets/Successful%20login.jpg)
+
+---
+
+#### 🛒 Flujo completo de compra
+
+![Flujo completo de compra](./assets/Complete%20purchase%20flow.jpg)
+
+---
+
+#### 🛍️ Agregado y remoción de productos del carrito
+
+![Gestión del carrito](./assets/Add%20multiple%20products%20and%20remove%20them%20from%20cart.jpg)
+
+---
+
+#### 🚪 Logout con validaciones
+
+![Logout con validaciones](./assets/Logout%20functionality.jpg)
+
+---
+
+### 🎥 Video demostrativo del flujo completo
+
+📺 [Ver video en YouTube](https://youtu.be/wnU0j21WlFs)  
+> 🔁 El video muestra una ejecución real del flujo automatizado completo en SauceDemo: login, carrito, compra y logout, con reportes generados por Serenity.
+
+---
+
 ## 👤 Autor
 
 **Guillermo Román Moyano**  
